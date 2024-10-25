@@ -1,0 +1,32 @@
+
+.duplo{
+  background-image: url(../../img/bg-footer.png);
+  position: relative;
+  height: 400px;
+  width: 100%;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  z-index: -2;
+  }
+    
+.duplo div{
+  width:45%;
+  align-items: center;
+  margin: auto;
+  height:300px;
+  background-color:#666;
+  }
+    
+.fig1{
+  background-image: url(../../img/murumbi.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+    
+.fig2{
+  background-image: url(../../img/conduz.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+    

@@ -1,0 +1,11 @@
+.banner{
+    position: relative;
+    background-image: url(../../img/Banner-Desktop-Deslogada.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
